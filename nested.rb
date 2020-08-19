@@ -83,7 +83,7 @@ def adding_matz
         }
      }
 
-    hash.merge!
+    hash.merge!(programmer_hash)
 end
 
 def changing_alan
